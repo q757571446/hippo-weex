@@ -1,0 +1,6 @@
+{
+  "AppName":"HippoWeex",
+  "AppId":"com.hippo.weex",
+  "SplashText":"Hippo\nWeex",
+  "WeexBundle":"index.js"
+}
